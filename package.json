@@ -1,0 +1,20 @@
+{
+  "name": "vue3-app-no-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.22.0",
+    "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.4"
+  }
+}
